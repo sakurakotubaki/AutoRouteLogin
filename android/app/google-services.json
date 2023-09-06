@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "196433390992",
+    "project_id": "usersearch-a36f9",
+    "storage_bucket": "usersearch-a36f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196433390992:android:16499a2c82fa470cdb9715",
+        "android_client_info": {
+          "package_name": "com.example.auto_route_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196433390992-dlulovuvvguj7vd9hq9lp3pgee58395q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLCY3JT93N-8CzGFUgZExLctIrqcJzGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196433390992-c0a88cckggv3i2a1l3ttseto490ttcht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196433390992-93i8g4aim63fatm09q8g0bq2hj8789lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jboy.diApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
